@@ -32,6 +32,6 @@ The result is much more useful, because we can add functionality which transform
 
 ## How did we do it?
 
- [Re - implementing the API](https://github.com/aliceliveprojects/WildLoggingDBParent/blob/master/ReImplementing.md)this shows you how we created a Postgres DB behind the same RESTful API - so we ddn't have to change the client.
+ [Re - implementing the API](https://github.com/aliceliveprojects/WildLoggingDBParent/blob/master/ReImplementing.md) - this shows you how we created a Postgres DB behind the same RESTful API - so we ddn't have to change the client.
  You can see the source codes we used as a guide [here](https://github.com/aliceliveprojects/WildLogging) .
  
