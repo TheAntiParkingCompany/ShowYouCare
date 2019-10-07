@@ -10,9 +10,11 @@ On discovering the sticker, the perp will find the QR code irresistable! They wi
 
 On receipt of an apology, the sevice will send a push notification to the phone which reported he incident.
 
-The phone app source can be found here [](),  with the latest release [here]()
-The API source code, fronting a Postgres database can be found [here](), with the deployement [here]()
-The SPWA source code, which provides the perp scanning and sticker generation, can be found [here]().
+The phone app source can be found [here](https://github.com/TheAntiParkingCompany/ShowYouCareApp),  with the latest release [here](https://github.com/TheAntiParkingCompany/ShowYouCare/tree/master/releases).  
+The API source code, fronting a Postgres database can be found [here](https://github.com/TheAntiParkingCompany/3rd-attempt), with the deployement [here](https://anti-parking-api.herokuapp.com/). You can explore the API, using the Swagger UI, [here](https://anti-parking-api.herokuapp.com/docs).    
+The SPWA source code, which provides the sticker generation, can be found [here](https://cerealsuperhero.github.io/SPWA_GenerateStickers/generate/).   
+The SPWA source code, which provides the perp scanning, can be found [here](https://cerealsuperhero.github.io/SPWA_GenerateStickers/response/).  
+
 
 ----------
 
