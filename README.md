@@ -1,5 +1,21 @@
 # Show You Care Park Elsewhere
 
+This application and system allows the reporting of parking incidents, by a member of the public.
+
+They will do this, by scanning a pre-printed sticker with an app on their mobile phone, before placing it on the offending vehicle!
+
+Stickers display a unique QR code, which identifies the incident, and provides a URL.
+
+On discovering the sticker, the perp will find the QR code irresistable! They will scan it with their mobile phone. This will take them to a single page web application, which will inform them of their misdeed, and offer them the opportunity to apologise.
+
+On receipt of an apology, the sevice will send a push notification to the phone which reported he incident.
+
+The phone app source can be found here [](),  with the latest release [here]()
+The API source code, fronting a Postgres database can be found [here](), with the deployement [here]()
+The SPWA source code, which provides the perp scanning and sticker generation, can be found [here]().
+
+----------
+
 ShowYouCareApp is a web application which we built to show how the JAM Stack works (Javascript, API, Markup). 
 It's a pretty simple responsive app which lets anyone logg in an accident through scanning already printed QR code.
 You can find the Single Web Page Application for creating Qr code stickers deployed on GitHub [here](https://github.com/TheAntiParkingCompany/SPWA_GenerateStickers)
