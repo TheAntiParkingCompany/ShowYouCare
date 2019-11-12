@@ -12,10 +12,10 @@ On receipt of an apology, the sevice will send a push notification to the phone 
 
 The phone app source can be found [here](https://github.com/TheAntiParkingCompany/ShowYouCareApp),  with the latest release [here](https://github.com/TheAntiParkingCompany/ShowYouCare/tree/master/releases).  
 The API source code, fronting a Postgres database can be found [here](https://github.com/TheAntiParkingCompany/3rd-attempt), with the deployement [here](https://anti-parking-api.herokuapp.com/). You can explore the API, using the Swagger UI, [here](https://anti-parking-api.herokuapp.com/docs).    
-The SPWA source code, which provides the sticker generation, and per scanning can be found [here](https://github.com/TheAntiParkingCompany/SPWA_GenerateStickers).  But should be [here](https://theantiparkingcompany.github.io/ShowYouCare/) -- soon!  
+The SPWA source code, which provides the sticker generation, and per scanning can be found [here](https://github.com/TheAntiParkingCompany/SPWA_GenerateStickers).
 
-The SPWA deployement for sticker generation can be found [here](https://cerealsuperhero.github.io/SPWA_GenerateStickers/generate/).   
-The SPWA deployement which provides the perp scanning, can be found [here](https://cerealsuperhero.github.io/SPWA_GenerateStickers/response/).  
+The SPWA deployement for sticker generation can be found [here](https://TheAntiParkingCompany.github.io/SPWA_GenerateStickers/generate/).   
+The SPWA deployement which provides the perp scanning, can be found [here](https://TheAntiParkingCompany.github.io/SPWA_GenerateStickers/response/).  
 
 
 ----------
